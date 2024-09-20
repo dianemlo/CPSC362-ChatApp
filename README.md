@@ -9,7 +9,12 @@
 6. Our product: makes sure all messages are secure.
 
 <h2> Functional Requirements (Use Cases & User Stories): </h2>
-1.
+Use Case: As a user, I want to send messages instantly to other users so that I can communicate in real time.
+User Story: As a registered user, I want to sen and receive messages instantly, so that my communication is like talking in person.
+
+Use Case: As a user, I want to join chat rooms so that I can participate in group discussions.
+User Story: 
 
 <h2> Non-Functional Requirements: </h2>
-1.
+Use Case:
+User Story:
