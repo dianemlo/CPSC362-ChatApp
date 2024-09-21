@@ -24,6 +24,9 @@ Use Case: As a user, I want to join chat rooms so that I can participate in grou
 
 User Story: As a user, I want to join channels that are related to my interests.
 
+User Story: As a user, I should be able to see past chat history. 
+
+
 <h3> User Profiles </h3>
 Use Case: As a user, I want to create and customize my profile.
 
@@ -39,3 +42,8 @@ User Story: As an admin, I want the application to handle at least 10 users
 Use Case: Messaging should be secure to user's privacy
 
 User Story: As a user, I expect my messages to be secure so that no unauthorized parties can read them
+
+<h3> Functionality </h3>
+
+User Story: As a user, I want to be able to send at least 5000 characters per message.  
+User Story: As a user, I want to be able to send a message anytime. 
